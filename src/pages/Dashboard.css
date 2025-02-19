@@ -1,0 +1,17 @@
+.content {
+  padding: 20px;
+  background: #d4eaf7;
+  height: 100vh;
+}
+
+.overview {
+  display: flex;
+  gap: 10px;
+}
+
+.box {
+  background: white;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: center;
+}
